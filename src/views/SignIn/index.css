@@ -1,0 +1,35 @@
+body
+{
+  background-color:purple;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  color: green;
+}
+.signin {
+  
+  background-color:lightgray;
+  margin-top: 18%;
+ 
+  
+  padding: 5%;
+  border: 4px solid lightgray;
+  height: 450px;
+  width:1700px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  margin-left: 3%;
+  width: 50%;
+  margin-top:-36.5px;
+  
+}
+
+#softsol
+{
+  color: aqua;
+}
